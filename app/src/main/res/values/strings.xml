@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">MyMobileProject</string>
+    <string name="head">ВОЙТИ В АККАУНТ</string>
+    <string name="enterinfo">Введите информацию</string>
+<!--    <string name="fio">ФИО</string>-->
+    <string name="phone">Номер телефона</string>
+    <string name="pass">Пароль</string>
+    <string name="enter_button">ВОЙТИ</string>
+    <string name="catalog">КАТАЛОГ</string>
+    <string name="profile">ВАШ ПРОФИЛЬ</string>
+<!--    <string name="contactinfo">Контактная информация</string>-->
+    <string name="rules">ПРАВИЛА ПРОКАТА</string>
+    <string name="favourites">ИЗБРАННОЕ</string>
+    <string name="createcart">ОФОРМЛЕНИЕ\nЗАКАЗА</string>
+    <string name="cameras">КАМЕРЫ</string>
+    <string name="cameras1">БЕЗЗЕРКАЛЬНЫЕ\nКАМЕРЫ</string>
+    <string name="canon">CANON EOS R BODY</string>
+
+
+    <string name="price">Стоимость аренды</string>
+    <string name="date">Сутки\nТрое суток\nНеделя</string>
+    <string name="priceofdate">2000р\n11590р\n39990р</string>
+
+
+<!--    <string name="getproduct">Когда получить товар</string>-->
+<!--    <string name="returnproduct">Когда вернуть товар</string>-->
+
+    <string name="value">Полученная\nстоимость</string>
+
+    <string name="quantity">Срок аренды</string>
+    <string name="sum_template">Сумма: %d</string>
+    <string name="ruble_template">%d р.</string>
+    <string-array name="quantity_string_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+
+    <string name="rules_1">Получение оборудования</string>
+    <string name="rules_text1">\nВнимание - получение оборудования возможно только\nпри наличии оригинала паспорта!\n\nТехника выдаётся только тому клиенту, на чьё имя\nоформлен заказ, при обязательном предъявлении\nпаспорта. Если Вы лично не можете приехать за\nоборудованием в офис или принять доставку\nкурьером, то Вам доступны следующие варианты:\n- оформить нотариально заверенную доверенность\nна другого человека. Для получения текста\nдоверенности напишите на почту;\n- переоформить Ваш заказ на другого человека –\nпод залог, либо без залога в пределах его\nперсонального лимита, если он уже\nзарегистрирован у нас и может приехать лично в\nнаш офис/принять доставку.\n</string>
+    <string name="rules_2">Документы аренды съемочной техники</string>
+    <string name="rules_text2">\nПри получении техники Вам необходимо подписать\nДоговор проката и Акт передачи, при возврате – Акт\nприемки. Внимательно ознакомьтесь с документами.\nПодписанный договор является обязательством\nсоблюдения всех условий аренды обеими сторонами.\n\nВажно: для заключения договора вам необходимо\nпредъявить оригинал паспорта.\n</string>
+    <string name="rules_3">Возврат оборудования</string>
+    <string name="rules_text3">\nЕсли заказ оформлен на физическое лицо и при этом\nне оставлялся залог, то технику может вернуть любой\nчеловек, которому Вы доверяете.\nВернуть оборудование, арендованное под залог,\nможет любой человек.\nОбращаем Ваше внимание: вернуть свой залог за\nоборудование может только тот клиент, на чьё имя\nоформлялся договор.</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+</resources>
