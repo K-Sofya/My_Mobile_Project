@@ -11,8 +11,8 @@ public class EnterRepo {
     private final List<Enter> enterList = new ArrayList<>();
 
     public EnterRepo() {
-        // Данные для входа
-        enterList.add(new Enter("1", "1"));
+// katya commit
+        enterList.add(new Enter("+79031234567", "123"));
     }
 
     public List<Enter> getEnterList() {
